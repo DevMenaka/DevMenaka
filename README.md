@@ -31,11 +31,14 @@ src="https://img.shields.io/github/followers/DevMenaka?logo=github&style=for-the
 
 ### Badges
 
+<a href="https://app.daily.dev/menakasiriwardhana"><img src="https://api.daily.dev/devcards/v2/TksSM7eBWZzYKtVUDyoYA.png?type=wide&r=0de" width="652" alt="Menaka Siriwardhana's Dev Card"/></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/DevMenaka"><img src="https://github-readme-stats.vercel.app/api?username=DevMenaka&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="DevMenaka's GitHub stats" /></a>
 
 <a href="http://www.github.com/DevMenaka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMenaka&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <a href="http://www.github.com/DevMenaka"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevMenaka&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
